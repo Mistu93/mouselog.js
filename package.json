@@ -2,7 +2,7 @@
   "name": "mouselog",
   "version": "0.3.3",
   "description": "The mouse tracking agent for Mouselog.",
-  "main": "./src/index.js",
+  "main": "./build/mouselog.js",
   "homepage": "https://github.com/microsoft/mouselog.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
